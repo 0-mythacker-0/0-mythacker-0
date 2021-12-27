@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0-mythacker-0
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning c++
+- 💞️ I’m looking to collaborate on islamic apps
+- 📫 How to reach me m.mehedihasan.personal@gmail.com
